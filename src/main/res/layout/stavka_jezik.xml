@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/nazivJezika"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="18dp"
+        android:text="Naziv"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/nazivJezika"
+        android:layout_below="@+id/nazivJezika"
+        android:layout_marginTop="18dp"
+        android:text="Citanje:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView16"
+        android:layout_marginStart="28dp"
+        android:layout_toEndOf="@+id/textView16"
+        android:text="Pisanje:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView18"
+        android:layout_alignBottom="@+id/textView18"
+        android:layout_marginStart="28dp"
+        android:layout_toEndOf="@+id/textView18"
+        android:text="Govor:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/citanjeValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView16"
+        android:layout_below="@+id/textView16"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="15dp"
+        android:text="A1" />
+
+    <TextView
+        android:id="@+id/pisanjeValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/citanjeValue"
+        android:layout_alignBottom="@+id/citanjeValue"
+        android:layout_alignStart="@+id/textView18"
+        android:layout_marginStart="16dp"
+        android:text="A1" />
+
+    <TextView
+        android:id="@+id/govorValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/pisanjeValue"
+        android:layout_alignBottom="@+id/pisanjeValue"
+        android:layout_alignStart="@+id/textView19"
+        android:layout_marginStart="10dp"
+        android:text="A1" />
+</RelativeLayout>

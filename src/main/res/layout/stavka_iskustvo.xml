@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/radnoMjesto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="19dp"
+        android:text="Radno mjesto"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/radnoMjesto"
+        android:layout_below="@+id/radnoMjesto"
+        android:layout_marginTop="9dp"
+        android:text="Od:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/datumOd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView15"
+        android:layout_marginStart="11dp"
+        android:layout_toEndOf="@+id/textView15"
+        android:text="18.3.2018" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView15"
+        android:layout_marginTop="8dp"
+        android:layout_toStartOf="@+id/datumOd"
+        android:text="Do:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/datumDo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView17"
+        android:layout_marginStart="8dp"
+        android:layout_toEndOf="@+id/textView17"
+        android:text="18.3.2018" />
+</RelativeLayout>

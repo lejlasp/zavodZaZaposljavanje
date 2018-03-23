@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ZavodZaZaposljavanje</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_singin">Sign-in</string>
+    <string name="title_activity_zzzhome">ZZZ Client</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_novi">NoviActivity</string>
+    <string name="title_activity_kategorija_home">KategorijaHomeActivity</string>
+    <string name="hello_world">Hello world</string>
+    <string name="title_activity_oglasi">OglasiActivity</string>
+    <string name="title_activity_clanci">ClanciActivity</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="drawer_otvoreno">Otvoreno</string>
+    <string name="drawer_zatvoreno">Zatvoreno</string>
+</resources>

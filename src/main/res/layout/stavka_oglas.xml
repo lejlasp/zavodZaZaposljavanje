@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/col1"
+        android:layout_weight="2">
+
+        <TextView
+            android:id="@+id/tvNazivOglasaValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Naziv oglasa"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/DodgerBlue"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvGradValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Grad"
+            android:textColor="@color/Black"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/tvNazivKompanijeValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Naziv kompanije"
+            android:textColor="@color/Black"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/tvBrojKanidata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Broj prijavljenih kandidata"
+            android:textColor="@color/Black"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/col2"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/tvPraznoMjesto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tvRokZaPrijavuLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rok za prijavu:"
+            android:textColor="@color/Black"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/tvRokZaPrijavuValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="15.12.2017"
+            android:textColor="@color/Black"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/tvBrojKandidataValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:textColor="@color/Black"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+    </LinearLayout>
+
+
+</LinearLayout>
