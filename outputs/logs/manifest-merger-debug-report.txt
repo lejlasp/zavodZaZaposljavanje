@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b6b9060e6d204f2daac1447ec0863def\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ccedf3bd1e634dc446741126fa5b31ae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\689f405337f85666b46259fa6660057c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a89d34e84f686798619235ef11f43aa1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d2e401515f15489d28279dcde5f5a13d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5f6242df79acf6597aa866d0695eca34\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\774cdeb24f033c53440830de3b9ceeda\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fda05cd7c228ad6882634c228acccbaf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c64cac20e70a4be925c72350586ee29\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\14851f0a0ee79f2b674ef1ec4e8141ae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\436cb864aee2e085149b459fde36db8f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3ffb9259f3eded2bd48ab2eed8e5745f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fec96d08bb8750f84a26d94708da46a4\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f23b76ec41ad8962647ce7be336a1739\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:3:5-67
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:8:5-54:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ccedf3bd1e634dc446741126fa5b31ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ccedf3bd1e634dc446741126fa5b31ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\689f405337f85666b46259fa6660057c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\689f405337f85666b46259fa6660057c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a89d34e84f686798619235ef11f43aa1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a89d34e84f686798619235ef11f43aa1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d2e401515f15489d28279dcde5f5a13d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d2e401515f15489d28279dcde5f5a13d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5f6242df79acf6597aa866d0695eca34\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5f6242df79acf6597aa866d0695eca34\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\774cdeb24f033c53440830de3b9ceeda\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\774cdeb24f033c53440830de3b9ceeda\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fda05cd7c228ad6882634c228acccbaf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fda05cd7c228ad6882634c228acccbaf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c64cac20e70a4be925c72350586ee29\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c64cac20e70a4be925c72350586ee29\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\14851f0a0ee79f2b674ef1ec4e8141ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\14851f0a0ee79f2b674ef1ec4e8141ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\436cb864aee2e085149b459fde36db8f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\436cb864aee2e085149b459fde36db8f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3ffb9259f3eded2bd48ab2eed8e5745f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3ffb9259f3eded2bd48ab2eed8e5745f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fec96d08bb8750f84a26d94708da46a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fec96d08bb8750f84a26d94708da46a4\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f23b76ec41ad8962647ce7be336a1739\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f23b76ec41ad8962647ce7be336a1739\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:9:9-30
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_autentifikacija.LoginActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:17:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:20:13-24:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:23:23-70
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.ZZZHome
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:28:13-59
+	android:theme
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:27:13-36
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.MainActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:30:9-33:59
+	android:label
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:32:13-56
+	android:theme
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:31:13-41
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_poslodavac.OdabirKategorijeActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:34:9-78
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:34:19-75
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_poslodavac.primjer1_vise_activity.KategorijaHomeActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:35:9-99
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:35:19-96
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_poslodavac.primjer2_vise_fragmenata.KategorijaHome2Activity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:36:9-102
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:36:19-99
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_poslodavac.primjer1_vise_activity.OglasiActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:37:9-91
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:37:19-88
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_poslodavac.primjer1_vise_activity.ClanciActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:38:9-41:47
+	android:label
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:40:13-58
+	android:theme
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:39:13-82
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_poslodavac.primjer1_vise_activity.KandidatiActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:42:9-94
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:42:19-91
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_poslodavac.primjer1_vise_activity.KandidatiOglasiActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:43:9-109
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:43:19-97
+activity#app.zavodzazaposljavanje.fit.ba.zavodzazaposljavanje.area_poslodavac.primjer2_vise_fragmenata.HomeActivity
+ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:44:9-53:20
+	android:label
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:46:13-56
+	android:theme
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml:45:13-82
+uses-sdk
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b6b9060e6d204f2daac1447ec0863def\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b6b9060e6d204f2daac1447ec0863def\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ccedf3bd1e634dc446741126fa5b31ae\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ccedf3bd1e634dc446741126fa5b31ae\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\689f405337f85666b46259fa6660057c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\689f405337f85666b46259fa6660057c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a89d34e84f686798619235ef11f43aa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a89d34e84f686798619235ef11f43aa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d2e401515f15489d28279dcde5f5a13d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d2e401515f15489d28279dcde5f5a13d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5f6242df79acf6597aa866d0695eca34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5f6242df79acf6597aa866d0695eca34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\774cdeb24f033c53440830de3b9ceeda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\774cdeb24f033c53440830de3b9ceeda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fda05cd7c228ad6882634c228acccbaf\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fda05cd7c228ad6882634c228acccbaf\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c64cac20e70a4be925c72350586ee29\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c64cac20e70a4be925c72350586ee29\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\14851f0a0ee79f2b674ef1ec4e8141ae\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\14851f0a0ee79f2b674ef1ec4e8141ae\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\436cb864aee2e085149b459fde36db8f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\436cb864aee2e085149b459fde36db8f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3ffb9259f3eded2bd48ab2eed8e5745f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3ffb9259f3eded2bd48ab2eed8e5745f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fec96d08bb8750f84a26d94708da46a4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fec96d08bb8750f84a26d94708da46a4\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f23b76ec41ad8962647ce7be336a1739\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f23b76ec41ad8962647ce7be336a1739\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lejla\ZavodZaZaposljavanje\ZavodZaZaposljavanje2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ccedf3bd1e634dc446741126fa5b31ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ccedf3bd1e634dc446741126fa5b31ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a89d34e84f686798619235ef11f43aa1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a89d34e84f686798619235ef11f43aa1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d2e401515f15489d28279dcde5f5a13d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d2e401515f15489d28279dcde5f5a13d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5f6242df79acf6597aa866d0695eca34\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5f6242df79acf6597aa866d0695eca34\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\774cdeb24f033c53440830de3b9ceeda\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\774cdeb24f033c53440830de3b9ceeda\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fda05cd7c228ad6882634c228acccbaf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fda05cd7c228ad6882634c228acccbaf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c64cac20e70a4be925c72350586ee29\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c64cac20e70a4be925c72350586ee29\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\14851f0a0ee79f2b674ef1ec4e8141ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\14851f0a0ee79f2b674ef1ec4e8141ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\436cb864aee2e085149b459fde36db8f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\436cb864aee2e085149b459fde36db8f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3ffb9259f3eded2bd48ab2eed8e5745f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3ffb9259f3eded2bd48ab2eed8e5745f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fec96d08bb8750f84a26d94708da46a4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fec96d08bb8750f84a26d94708da46a4\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\72b29e64e4f811cfeb46fcf68ffe7caa\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f23b76ec41ad8962647ce7be336a1739\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f23b76ec41ad8962647ce7be336a1739\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lejla\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f23b76ec41ad8962647ce7be336a1739\AndroidManifest.xml:26:13-58
